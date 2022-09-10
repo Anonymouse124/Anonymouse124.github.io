@@ -1,2 +1,5 @@
 # Anonymouse124.github.io
-Arceus X scripts
+Random Stuff
+
+------------
+```Arceus x Scripts?```
